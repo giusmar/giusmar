@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giusmar
 - 👀 I’m interested in Biotecnology and Data Analysis
-- 🌱 I’m currently learning R, Python, Tabelau and SAS
+- 🌱 I’m currently learning R, Python, Tabelau, SAS, Nextflow and bash
 - 💞️ I’m looking to collaborate on science field of research and data analysis on medical data
 - 📫 How to reach me @trentaquattro on telegram or at giusmartone@gmail.com
 
