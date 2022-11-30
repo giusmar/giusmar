@@ -6,7 +6,7 @@
   
 </div>
 
-- 🔭 I’m currently working on **Sequencing pipeline and CoV19 analysis**
+- 🔭 I’m currently working on **Sequencing pipelines and CoV19 analysis**
 - 🌱 I’m currently learning **Nextflow and snakemake**
 - 👯 I’m looking to collaborate on **Bioinformatic pipeline**
 - 👨‍💻 All of my projects are available at [https://giusmar.github.io/website/](https://giusmar.github.io/website/)
